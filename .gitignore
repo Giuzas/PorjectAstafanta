@@ -32,7 +32,9 @@ jspm_packages/
 .env.test
 .env.production
 
+
 # VS Code directories and files
+.vscodee
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
